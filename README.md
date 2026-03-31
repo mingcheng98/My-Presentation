@@ -1,2 +1,3 @@
 # My-Presentation
-The repository will be used to record my presentation.
+The repository will be used to record my presentations. You must know that you will deliver numerous presentations during your university life. I'm firmly convinced that it will become an unforgettable part in my life. So I created a repository with excitement, which will collect my powerpoint and copywriting of my each presentation.
+If you are interested in what I intended to express or confused by my unexact description, please feel free to contact me via my E-mail: mingcheng98@buaa.edu.cn. I will appreciate it if you could provide some instructive proposals for my presentation, with which I will make greater progress and deliver more fantastic presentations.
